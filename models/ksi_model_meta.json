@@ -1,9 +1,9 @@
 {
-  "test_accuracy": 0.5606272998072542,
-  "test_recall": 0.5807549003725904,
-  "test_precision": 0.11532151703284331,
-  "test_f1": 0.19243156199677938,
-  "test_auc": 0.6021702295813169,
+  "test_accuracy": 0.5671397698732551,
+  "test_recall": 0.574599060424429,
+  "test_precision": 0.11604776705381972,
+  "test_f1": 0.19309706570853066,
+  "test_auc": 0.6022260172691914,
   "boroughs": [
     "Brooklyn",
     "Queens",
@@ -30,34 +30,34 @@
     "hour",
     "day_of_week",
     "month",
+    "borough",
+    "hour_category",
+    "season",
     "is_weekend",
     "pedestrian_involved",
     "cyclist_involved",
-    "high_risk",
-    "borough",
-    "hour_category",
-    "season"
+    "high_risk"
   ],
   "top_features": [
     {
       "feature": "hour",
-      "importance": 0.1579428602067565
+      "importance": 0.15622449292559903
     },
     {
-      "feature": "high_risk",
-      "importance": 0.14279721015879226
+      "feature": "high_risk_1",
+      "importance": 0.1482419086841593
     },
     {
-      "feature": "cyclist_involved",
-      "importance": 0.12462353726820008
+      "feature": "cyclist_involved_1",
+      "importance": 0.12158553842413054
     },
     {
       "feature": "borough_Manhattan",
-      "importance": 0.10337768910632633
+      "importance": 0.10495536056884962
     },
     {
-      "feature": "pedestrian_involved",
-      "importance": 0.0977611053498002
+      "feature": "pedestrian_involved_1",
+      "importance": 0.08956795074394398
     }
   ]
 }
