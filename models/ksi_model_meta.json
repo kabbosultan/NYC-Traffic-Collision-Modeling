@@ -1,0 +1,63 @@
+{
+  "test_accuracy": 0.5606272998072542,
+  "test_recall": 0.5807549003725904,
+  "test_precision": 0.11532151703284331,
+  "test_f1": 0.19243156199677938,
+  "test_auc": 0.6021702295813169,
+  "boroughs": [
+    "Brooklyn",
+    "Queens",
+    "Bronx",
+    "Manhattan",
+    "Staten Island"
+  ],
+  "hour_categories": [
+    "Late_Night",
+    "Evening_Rush",
+    "Night",
+    "Morning_Rush",
+    "Midday"
+  ],
+  "seasons": [
+    "Fall",
+    "Winter",
+    "Summer",
+    "Spring"
+  ],
+  "ksi_rate": 0.09013544848693703,
+  "total_crashes": 342418,
+  "feature_names": [
+    "hour",
+    "day_of_week",
+    "month",
+    "is_weekend",
+    "pedestrian_involved",
+    "cyclist_involved",
+    "high_risk",
+    "borough",
+    "hour_category",
+    "season"
+  ],
+  "top_features": [
+    {
+      "feature": "hour",
+      "importance": 0.1579428602067565
+    },
+    {
+      "feature": "high_risk",
+      "importance": 0.14279721015879226
+    },
+    {
+      "feature": "cyclist_involved",
+      "importance": 0.12462353726820008
+    },
+    {
+      "feature": "borough_Manhattan",
+      "importance": 0.10337768910632633
+    },
+    {
+      "feature": "pedestrian_involved",
+      "importance": 0.0977611053498002
+    }
+  ]
+}
