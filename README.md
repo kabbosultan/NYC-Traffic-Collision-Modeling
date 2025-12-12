@@ -1,4 +1,5 @@
 # Predicting Collision Severity in NYC (Vision Zero)
+<img width="1156" height="644" alt="Screenshot 2025-12-12 at 1 22 37 PM" src="https://github.com/user-attachments/assets/1306c33a-af0e-44cb-870e-e757779492b0" />
 
 ## PM board
 [Project Management Board](https://www.notion.so/kabbo/The-Marcy-Lab-School-DA-Fellowship-Kabbo-Ibrahima-2c3709faef5981328db5feafda5cb0dd)
