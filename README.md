@@ -43,7 +43,7 @@ nyc-mod6-project/
 ├── notebooks/
 │   ├── 01_eda.ipynb                                    # Exploratory Data Analysis, Cleaning & Feature Engineering
 │   ├── 02_modeling_baseline.ipynb                      # Dummy Classifier & Baseline Metrics
-│   ├── 03_modeling_simple.ipynb                        # Logistic Regression (Interpretable Model)
+│   ├── 03_modeling_simple.ipynb                        # Logistic Regression Model
 │   ├── 04_modeling_tuned.ipynb                         # Tuned & Final Model
 ├── requirements.txt                                    # Python dependencies
 └── README.md                                           # Project Documentation
@@ -191,6 +191,8 @@ We developed a local web application to make the model accessible to non-technic
    * KSI probablity
 4. Adjust inputs to explore different scenarios
 5. Demo: https://youtu.be/v3F9HaC9-mI
+
+- [Slide Deck Presentation](https://docs.google.com/presentation/d/1DX8IYVHL67hMYJoV77tnIgDyl_Hys09SlTCgPZL3dpY/edit?usp=sharing)
 
 ## Contributors
 - [Ibrahima Diallo](https://www.linkedin.com/in/ibranova/): Python Developer
