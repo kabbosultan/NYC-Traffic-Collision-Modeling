@@ -4,9 +4,6 @@
 ## PM board
 [Project Management Board](https://www.notion.so/kabbo/The-Marcy-Lab-School-DA-Fellowship-Kabbo-Ibrahima-2c3709faef5981328db5feafda5cb0dd)
 
-## Presentation Slides
-[Slides](https://docs.google.com/presentation/d/1DX8IYVHL67hMYJoV77tnIgDyl_Hys09SlTCgPZL3dpY/edit?slide=id.g3aeab37721c_0_11#slide=id.g3aeab37721c_0_11)
-
 ## Overview
 **Project Purpose:**
 This project supports New York City's **Vision Zero** initiative, which aims to eliminate traffic deaths and serious injuries. By analyzing historical motor vehicle collision data, we aim to build a classification model that predicts the likelihood of a collision resulting in **Killed or Seriously Injured (KSI)** outcomes.
@@ -192,7 +189,8 @@ We developed a local web application to make the model accessible to non-technic
 4. Adjust inputs to explore different scenarios
 5. Demo: https://youtu.be/v3F9HaC9-mI
 
-- [Slide Deck Presentation](https://docs.google.com/presentation/d/1DX8IYVHL67hMYJoV77tnIgDyl_Hys09SlTCgPZL3dpY/edit?usp=sharing)
+## Presentation Slides
+[Slides](https://docs.google.com/presentation/d/1DX8IYVHL67hMYJoV77tnIgDyl_Hys09SlTCgPZL3dpY/edit?slide=id.g3aeab37721c_0_11#slide=id.g3aeab37721c_0_11)
 
 ## Contributors
 - [Ibrahima Diallo](https://www.linkedin.com/in/ibranova/): Python Developer
