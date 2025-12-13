@@ -26,7 +26,7 @@ This predictive tool empowers Vision Zero analysts and city planners to move fro
 ```text
 nyc-mod6-project/
 ├── app/
-│   └── streamlit_app.py                                # Streamlit Dashboard source code
+│   └── streamlit_app.py                                # Streamlit Dashboard App 
 ├── data/                       
 |   └── cleaned_motor_vehicle_collisions.csv.zip        # Cleaned dataset
 ├── figures/ 
@@ -38,15 +38,13 @@ nyc-mod6-project/
 |   └── simplemodel_confusion_matrices.png
 |   └── tunedmodel_confusion_matrices.png
 ├── models/
-|   └── clustering_model.pkl                            # Clustering (Experiments)
-|   └── clustering_scaler.pkl                           # Clustering Scaler (Experiments)
 |   └── final_model.pkl                                 # Final Model
 |   └── ksi_model_meta.json                             # Meta data
 ├── notebooks/
 │   ├── 01_eda.ipynb                                    # Exploratory Data Analysis, Cleaning & Feature Engineering
 │   ├── 02_modeling_baseline.ipynb                      # Dummy Classifier & Baseline Metrics
 │   ├── 03_modeling_simple.ipynb                        # Logistic Regression (Interpretable Model)
-│   ├── 04_modeling_tuned.ipynb                         # Hyperparameter Tuning & Final Model
+│   ├── 04_modeling_tuned.ipynb                         # Tuned & Final Model
 ├── requirements.txt                                    # Python dependencies
 └── README.md                                           # Project Documentation
 ```
@@ -193,3 +191,7 @@ We developed a local web application to make the model accessible to non-technic
    * KSI probablity
 4. Adjust inputs to explore different scenarios
 5. Demo: https://youtu.be/v3F9HaC9-mI
+
+## Contributors
+- [Ibrahima Diallo](https://www.linkedin.com/in/ibranova/): Python Developer
+- [Kabbo Sultan](https://www.linkedin.com/in/kabbosultan/): Project Manager
