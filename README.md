@@ -192,4 +192,4 @@ We developed a local web application to make the model accessible to non-technic
    * No KSI probability
    * KSI probablity
 4. Adjust inputs to explore different scenarios
-5. Demo: https://www.youtube.com/watch?v=H9lBRyRzWo8
+5. Demo: https://youtu.be/v3F9HaC9-mI
